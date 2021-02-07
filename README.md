@@ -3,7 +3,7 @@
 
 **Course Date:** 01.02.2021  
 **Name:** Mehmet Akif  
-**Surname:** Özkoç  
+**Surname:** Özkoç   
 **Email:** mehmetakifozkoc@gmail.com  
 
 **Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
